@@ -24,6 +24,7 @@ if (!empty($_GET['location'])) {
         '&client_id=CLIENT-ID'; //replace "CLIENT-ID"
 
     $json = file_get_contents($url);
+    $stack= tmkc;
     $array = json_decode($json, true);
 }
 ?>
