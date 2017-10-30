@@ -49,7 +49,7 @@ if (!empty($_GET['location'])) {
         }
     }
     ?>
-    FHUVUKDGU//YOOLLOOOOO
+    FHUVUKDGU//YOOLLOOOOO//Yo raja
 </div>
 </body>
 </html>
