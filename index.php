@@ -52,4 +52,4 @@ if (!empty($_GET['location'])) {
 </div>
 </body>
 </html>
-Roll the scripts
+Roll the scripts and Switch
