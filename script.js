@@ -19,6 +19,7 @@ function addNewImages(data) {
                 '" src="' + image.images.low_resolution.url +
                 '" alt=""/><br/>');
             img.hide().prependTo('#results').fadeIn(2000);
+            done;
         }
         // yoyoyooyoyo
     });
